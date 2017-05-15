@@ -1,4 +1,4 @@
-package com.lucasnascimento.festa;
+package com.lucasproducoes.festa;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

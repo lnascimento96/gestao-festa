@@ -1,9 +1,8 @@
-package com.lucasnascimento.festa.repository;
+package com.lucasproducoes.festa.repository;
 
 import org.springframework.data.jpa.repository.JpaRepository;
-
-import com.lucasnascimento.festa.model.Convidado;
+import com.lucasproducoes.festa.model.Convidado;
 
 public interface Convidados extends JpaRepository<Convidado, Long> {
-
+	
 }

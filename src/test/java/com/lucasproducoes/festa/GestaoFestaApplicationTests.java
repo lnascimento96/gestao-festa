@@ -1,4 +1,4 @@
-package com.lucasnascimento.festa;
+package com.lucasproducoes.festa;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
